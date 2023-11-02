@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Font/Segoe_Fluent_Icons.ttf</file>
+        <file>FluWindow.qml</file>
+        <file>StandardWindow.qml</file>
+        <file>FluIcon.qml</file>
+        <file>FluAppBar.qml</file>
+        <file>FluIconButton.qml</file>
+        <file>FluToggleSwitch.qml</file>
+        <file>favicon.ico</file>
+    </qresource>
+</RCC>
